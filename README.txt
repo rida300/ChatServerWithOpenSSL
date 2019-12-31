@@ -16,8 +16,7 @@ Sources:
 15. https://github.com/tuomasb/OpenSSL-tryout/blob/master/client.c
 16. https://aticleworld.com/ssl-server-client-using-openssl-in-c/
 17. https://www.ibm.com/support/knowledgecenter/en/SSB23S_1.1.0.14/gtpc2/cpp_ssl_ctx_check_private_key.html
- 
-I used OpenSSl to implement encryption.
+
 To compile, run the 'make' command.
 To run directory server, ./directoryServer &
 To run chat server, ./server "tuesday" 6787 &
